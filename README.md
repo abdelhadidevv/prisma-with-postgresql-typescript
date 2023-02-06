@@ -6,7 +6,7 @@ This just simple Node.js backend app show how to getting started with Prisma and
 
 1. Add your DATABASE_URL in **.env** file:
 
-```sh
+```
 DATABASE_URL="RBRACE_TO_YOUR_POSTRGRESQL_URL"
 ```
 2. Run this command:
